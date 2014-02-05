@@ -22,4 +22,21 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <contributors>
+    <contributor>
+      <name>Guillermo</name>
+      <email>memonel@yahoo.com</email>
+      <url>http://noellemarie.com</url>
+      <organization>Guillermo Castellon</organization>
+      <organizationUrl>http://noellemarie.com</organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles>
+      <timezone>America/NewYork</timezone>
+      <properties>
+        <gtalk>guillermo.castellon@gmail.com</gtalk>
+      </properties>
+    </contributor>
+  </contributors>
 </project>
+
